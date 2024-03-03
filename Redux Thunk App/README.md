@@ -1,8 +1,7 @@
-# React + Vite
+<h1>REACT THUNK E COMMERCE APP</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p> This project is an ecommerce project created using react thunk. Within the project, an API request is sent with the json data we have created and the products are listed on the home page. Products are added to a basket and the quantity of the product in the basket is changed with the + and - buttons. In this way, the total basket amount is also calculated.  </p>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+![](ReactThunkEkranGoruntusu.gif)
